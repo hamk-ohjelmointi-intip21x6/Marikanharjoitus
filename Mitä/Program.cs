@@ -6,7 +6,9 @@ namespace Mitä
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Mikä on nimesi?");
+            Console.ReadLine();
+            Console.WriteLine("Hei ");
         }
     }
 }
